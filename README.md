@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Biomedical Engineering**
 
-- 📫 How to reach me **ssriatchaya93@gmail.com**
+- reach me **ssriatchaya93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
