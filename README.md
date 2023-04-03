@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sri Atchaya S</h1>
-<h3 align="center">I’m interested in problem solving and </h3>
+<h3 align="center">I’m interested in problem solving </h3>
 
 - 🌱 I’m currently Pursuing **Biomedical Engineering**
 
