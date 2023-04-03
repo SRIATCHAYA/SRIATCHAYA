@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sri Atchaya S</h1>
-<h3 align="center">I’m interested in problem solving and IoT</h3>
+<h3 align="center">I’m interested in problem solving and </h3>
 
-- 🌱 I’m currently learning **Biomedical Engineering**
+- 🌱 I’m currently Pursuing **Biomedical Engineering**
 
-- reach me **ssriatchaya93@gmail.com**
+- Reach me **ssriatchaya93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
